@@ -12,8 +12,8 @@ global.prems = ['6282252285143']
 //=============『 Info Owner 』============== //
 global.nameowner = 'YannSelaluTuru ✰'
 global.numberowner = '6282252285143'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/warikrr'
+global.instagram = 'https://instagram.com/ryannn.store'
+global.github = 'https://github.com/RyanStore'
 global.dana = '082350496532'
 global.pulsa = '082350496532'
 global.gopay = '082252285143'
