@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ 𝚈𝚊𝚗𝚗 𝚃𝚞𝚛𝚞',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -322,7 +322,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: '𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈',
             listType: 1,
-            footerText: "ᴀʀᴜʟʟᴏꜰᴄ",
+            footerText: "𝚈𝚊𝚗𝚗 𝚃𝚞𝚛𝚞",
             mtype: 'listMessage',
             sections: [
               {
