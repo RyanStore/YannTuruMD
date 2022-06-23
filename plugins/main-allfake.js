@@ -18,7 +18,7 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./media/siang.jpg') //Gambarnye
 					},
-					"title": "MikeBot", //Kasih namalu 
+					"title": "YannSukaTuru", //Kasih namalu 
 					"description": "SELF BOT", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
